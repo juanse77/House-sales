@@ -1,0 +1,1 @@
+La versión de pandas es: 1.4.3La versión de sklearn es: 1.1.2La versión de mlflow es: 1.29.0
